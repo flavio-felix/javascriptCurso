@@ -1,3 +1,3 @@
 function alerta2() {
-    alert("nilton do arquivo externo");
+    alert("flavio do arquivo externo");
 }
